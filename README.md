@@ -1,0 +1,1 @@
+This prokect gives the ability to control devices from the mobile phone over an internet connection.
