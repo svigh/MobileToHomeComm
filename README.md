@@ -46,11 +46,7 @@ The Home side:
 
 The Mobile side:
 
-- an app created in Swift for the iPhone which just needs to send data back home through the internet
-
-or
-
-- write a python script for Pythonista to run as interface on the phone
+- an app created in Swift for the iPhone which just needs to send data back home through the internet or write a python script for Pythonista to run as interface on the phone
 
 - the app will have a user interface with a scroll down list of logged devices on the selected home
 
